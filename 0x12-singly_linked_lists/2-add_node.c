@@ -1,7 +1,8 @@
 #include "lists.h"
 
 /**
- * add_note - adds a new node at the beginning of a list_t list.
+ * add_note - adds a new node at the beginning
+ * of a list_t list.
  * @head: head of the linked list
  * @str: string to store in the list
  * Return: Address of the head
